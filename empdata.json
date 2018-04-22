@@ -1,32 +1,32 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "email": "Accountant",
-      "hometown": "$170,750",
-      "eye colour": "2011/07/25",
-      "favourite colour": "8422"
+      "name": "James Swift",
+      "email": "js@gmail.com",
+      "hometown": "nashville",
+      "eye colour": "blue",
+      "favourite colour": "black"
     },
     {
-      "name": "Brielle Williamson",
-      "email": "Integration Specialist",
-      "hometown": "$372,000",
-      "eye colour": "2012/12/02",
-      "favourite colour": "4804"
+      "name": "Jonathan Groff",
+      "email": "jgr@126.com",
+      "hometown": "washingtondc",
+      "eye colour": "blue",
+      "favourite colour": "red"
     },
     {
-      "name": "Ashton Cox",
-      "email": "Junior Technical Author",
-      "hometown": "$86,000",
-      "eye colour": "2009/01/12",
-      "favourite colour": "1562"
+      "name": "Ashley Green",
+      "email": "agreen@yahoo.com",
+      "hometown": "london",
+      "eye colour": "green",
+      "favourite colour": "blue"
     },
     {
-      "name": "Airi Satou",
-      "email": "Accountant",
-      "hometown": "$162,700",
-      "eye colour": "2008/11/28",
-      "favourite colour": "5407"
+      "name": "Suri Water",
+      "email": "suw@gmail.com",
+      "hometown": "losangelos",
+      "eye colour": "green",
+      "favourite colour": "pink"
     },
     {
       "name": "Caesar Vance",
