@@ -2,122 +2,86 @@
   <employees>
     <data>
       <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <email>Accountant</email>
+      <hometown>$170,750</hometown>
+      <eye_colour>2011/07/25</eye_colour>
+      <favourite_colour>8422</favourite_colour>
     </data>
     <data>
       <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <email>Integration Specialist</email>
+      <hometown>$372,000</hometown>
+      <eye_colour>2012/12/02</eye_colour>
+      <favourite_colour>4804</favourite_colour>
     </data>
     <data>
       <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <email>Junior Technical Author</email>
+      <hometown>$86,000</hometown>
+      <eye_colour>2009/01/12</eye_colour>
+      <favourite_colour>1562</favourite_colour>
     </data>
     <data>
       <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <email>Accountant</email>
+      <hometown>$162,700</hometown>
+      <eye_colour>2008/11/28</eye_colour>
+      <favourite_colour>5407</favourite_colour>
     </data>
     <data>
       <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <email>Pre-Sales Support</email>
+      <hometown>$106,450</hometown>
+      <eye_colour>2011/12/12</eye_colour>
+      <favourite_colour>8330</favourite_colour>
     </data>
     <data>
       <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
-    </data>
-    <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <email>Regional Director</email>
+      <hometown>$183,000</hometown>
+      <eye_colour>2008/11/13</eye_colour>
+      <favourite_colour>6373</favourite_colour>
     </data>
     <data>
       <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <email>Senior Marketing Designer</email>
+      <hometown>$313,500</hometown>
+      <eye_colour>2012/12/18</eye_colour>
+      <favourite_colour>3597</favourite_colour>
     </data>
     <data>
       <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <email>Javascript Developer</email>
+      <hometown>$205,500</hometown>
+      <eye_colour>2009/09/15</eye_colour>
+      <favourite_colour>2360</favourite_colour>
     </data>
     <data>
       <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <email>Personnel Lead</email>
+      <hometown>$217,500</hometown>
+      <eye_colour>2012/09/26</eye_colour>
+      <favourite_colour>2290</favourite_colour>
     </data>
     <data>
       <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
-    </data>
-    <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
-    </data>
-    <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
+      <email>Sales Assistant</email>
+      <hometown>$137,500</hometown>
+      <eye_colour>2012/08/06</eye_colour>
+      <favourite_colour>9608</favourite_colour>
     </data>
     <data>
       <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
+      <email>Office Manager</email>
+      <hometown>$90,560</hometown>
+      <eye_colour>2008/12/13</eye_colour>
+      <favourite_colour>3814</favourite_colour>
     </data>
     <data>
       <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
+      <email>Support Lead</email>
+      <hometown>$342,000</hometown>
+      <eye_colour>2013/03/03</eye_colour>
+      <favourite_colour>9497</favourite_colour>
     </data>
   </employees>
